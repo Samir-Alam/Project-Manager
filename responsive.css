@@ -1,0 +1,24 @@
+@media only screen and (max-width: 580px){
+    .name, .visit{
+        font-size: 14px;
+    }
+    i{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 450px){
+    .name, .visit{
+        font-size: 10px;
+    }
+    i{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width: 350px){
+    .name, .visit{
+        font-size: 8px;
+    }
+    i{
+        font-size: 14px;
+    }
+}
